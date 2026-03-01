@@ -292,3 +292,42 @@
 - message 工具只用于给自己发消息
 - 付款相关绝不让 AI 经手
 
+
+---
+
+## 参考: OpenClaw 三层架构 (来自 yu-wenhao.com)
+
+### 核心理念
+
+| 层级 | 定位 | 示例 |
+|------|------|------|
+| **Layer 1** | 核心能力 (器官) | read, write, exec, web_search |
+| **Layer 2** | 高级能力 (强化) | browser, memory, sessions, cron |
+| **Layer 3** | 知识层 (教科书) | 53 Skills |
+
+### 安全最佳实践
+
+```
+✅ exec 启用审批机制
+✅ message 只给自己发消息
+✅ 密码管理要谨慎 (全有或全无)
+✅ 付款绝不经过 AI
+✅ 定期评估 Tool 启用必要性
+```
+
+### 当前 Nova 能力对照
+
+| 层级 | 已启用 | 状态 |
+|------|--------|------|
+| **Layer 1** | read, write, exec, web_search, web_fetch | ✅ 完整 |
+| **Layer 2** | browser, memory_search, sessions, message, cron | ✅ 完整 |
+| **Layer 3** | 28+ Skills | ✅ 可扩展 |
+
+### 成长方向
+
+按照三层架构持续扩展：
+1. Layer 1: 保持稳定，确保基础能力安全
+2. Layer 2: 增强自动化能力
+3. Layer 3: 按需扩展 Skills
+
+**安全第一，能力第二** 🌳
