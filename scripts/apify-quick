@@ -1,0 +1,62 @@
+#!/bin/bash
+# Apify Quick Actions - 常用任务快捷脚本
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+nvm use default > /dev/null 2>&1
+source ~/.openclaw/workspace/.env 2>/dev/null
+
+CMD="${1:-help}"
+shift || true
+
+case "$CMD" in
+  search)
+    # 搜索 Actors
+    ~/.openclaw/workspace/scripts/apify-mcpc tools-call search-actors "keywords:=$1" "limit:=${2:-5}" 2>&1
+    ;;
+  profile)
+    # 爬取 Instagram 账号
+    ~/.openclaw/workspace/scripts/apify-mcpc tools-call call-actor \
+      actor:='apify/instagram-profile-scraper' \
+      "input:={\"usernames\": [\"$1\"]}" 2>&1
+    ;;
+  posts)
+    # 爬取 Instagram 帖子
+    ~/.openclaw/workspace/scripts/apify-mcpc tools-call call-actor \
+      actor:='apify/instagram-post-scraper' \
+      "input:={\"usernames\": [\"$1\"], \"limit\": ${2:-10}}" 2>&1
+    ;;
+  comments)
+    # 爬取帖子评论
+    ~/.openclaw/workspace/scripts/apify-mcpc tools-call call-actor \
+      actor:='apify/instagram-comment-scraper' \
+      "input:={\"postUrls\": [\"$1\"]}" 2>&1
+    ;;
+  gmaps)
+    # Google Maps 搜索
+    ~/.openclaw/workspace/scripts/apify-mcpc tools-call call-actor \
+      actor:='compass/crawler-google-places' \
+      "input:={\"searchQueries\": [\"$1\"], \"maxResults\": ${2:-20}}" 2>&1
+    ;;
+  docs)
+    # 搜索 Apify 文档
+    ~/.openclaw/workspace/scripts/apify-mcpc tools-call search-apify-docs "query:=$1" 2>&1
+    ;;
+  *)
+    echo "Usage: apify-quick <command> [args]"
+    echo ""
+    echo "Commands:"
+    echo "  search <关键词> [数量]     搜索 Actors"
+    echo "  profile <用户名>           爬取 Instagram 账号资料"
+    echo "  posts <用户名> [数量]     爬取 Instagram 帖子"
+    echo "  comments <帖子URL>        爬取帖子评论"
+    echo "  gmaps <搜索词> [数量]    Google Maps 商家"
+    echo "  docs <问题>               搜索 Apify 文档"
+    echo ""
+    echo "Examples:"
+    echo "  apify-quick search instagram"
+    echo "  apify-quick profile openai"
+    echo "  apify-quick posts openai 20"
+    echo "  apify-quick gmaps 'pizza near NYC'"
+    ;;
+esac

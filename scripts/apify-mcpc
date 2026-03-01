@@ -1,0 +1,37 @@
+#!/bin/bash
+# Apify mcpc Wrapper - 使用统一 Key 管理器
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+nvm use default > /dev/null 2>&1
+
+# 加载环境变量
+source ~/.openclaw/workspace/.env 2>/dev/null
+
+# 使用 Key 管理器获取 Key
+KEY_RESULT=$(~/.openclaw/workspace/scripts/key_manager.sh get apify)
+if [ $? -ne 0 ]; then
+    echo "Error: $KEY_RESULT"
+    exit 1
+fi
+
+# 解析 index:key
+APIFY_TOKEN=$(echo "$KEY_RESULT" | cut -d':' -f2)
+KEY_INDEX=$(echo "$KEY_RESULT" | cut -d':' -f1)
+
+# 尝试执行命令，失败时自动切换
+attempt_request() {
+    mcpc mcp.apify.com -H "Authorization: Bearer $APIFY_TOKEN" "$@"
+    return $?
+}
+
+# 执行命令
+if attempt_request "$@"; then
+    # 成功，标记当前 Key
+    ~/.openclaw/workspace/scripts/key_manager.sh success apify "$KEY_INDEX" 2>/dev/null
+else
+    # 失败，切换到下一个 Key
+    ~/.openclaw/workspace/scripts/key_manager.sh failure apify "$KEY_INDEX" 2>/dev/null
+    echo "⚠️ Key $((KEY_INDEX+1)) failed, will use next key next time" >&2
+    exit 1
+fi

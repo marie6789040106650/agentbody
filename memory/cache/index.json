@@ -1,0 +1,632 @@
+{
+  "last_updated": "2026-02-22 01:25:33",
+  "total_files": 75,
+  "files": [
+    {
+      "path": "memory/2026-02-11-1452.md",
+      "mtime": "2026-02-11",
+      "hash": "029fcbc7",
+      "size": 761
+    },
+    {
+      "path": "memory/2026-02-11-1650.md",
+      "mtime": "2026-02-11",
+      "hash": "0262068e",
+      "size": 6458
+    },
+    {
+      "path": "memory/2026-02-11-1516.md",
+      "mtime": "2026-02-11",
+      "hash": "a0309a5b",
+      "size": 1861
+    },
+    {
+      "path": "memory/agent-team-playbook.md",
+      "mtime": "2026-02-21",
+      "hash": "12e3940a",
+      "size": 3267
+    },
+    {
+      "path": "memory/2026-02-09.md",
+      "mtime": "2026-02-09",
+      "hash": "e6ad2530",
+      "size": 7555
+    },
+    {
+      "path": "memory/BROWSER.md",
+      "mtime": "2026-02-09",
+      "hash": "aaae71e0",
+      "size": 4804
+    },
+    {
+      "path": "memory/2026-02-11-1546.md",
+      "mtime": "2026-02-11",
+      "hash": "83fe244e",
+      "size": 803
+    },
+    {
+      "path": "memory/AI_TOOLS_COVER.md",
+      "mtime": "2026-02-10",
+      "hash": "c2b32a9f",
+      "size": 6705
+    },
+    {
+      "path": "memory/2026-02-21-1334.md",
+      "mtime": "2026-02-21",
+      "hash": "e79b30ee",
+      "size": 717
+    },
+    {
+      "path": "memory/CLI.md",
+      "mtime": "2026-02-09",
+      "hash": "7311e093",
+      "size": 5431
+    },
+    {
+      "path": "memory/2026-02-21-1324.md",
+      "mtime": "2026-02-21",
+      "hash": "4db0e57b",
+      "size": 12025
+    },
+    {
+      "path": "memory/ESIM.md",
+      "mtime": "2026-02-09",
+      "hash": "1b2e4c65",
+      "size": 4553
+    },
+    {
+      "path": "memory/2026-02-21-2200.md",
+      "mtime": "2026-02-21",
+      "hash": "95ff40b3",
+      "size": 5616
+    },
+    {
+      "path": "memory/PROFILES.md",
+      "mtime": "2026-02-09",
+      "hash": "fbf2ff0d",
+      "size": 2217
+    },
+    {
+      "path": "memory/2026-02-06.md",
+      "mtime": "2026-02-09",
+      "hash": "7950ba53",
+      "size": 16538
+    },
+    {
+      "path": "memory/2026-02-11-1011.md",
+      "mtime": "2026-02-11",
+      "hash": "19d5cc05",
+      "size": 8722
+    },
+    {
+      "path": "memory/2026-02-12-1734.md",
+      "mtime": "2026-02-12",
+      "hash": "c1e00715",
+      "size": 4589
+    },
+    {
+      "path": "memory/2026-02-12-1957.md",
+      "mtime": "2026-02-12",
+      "hash": "f60e9f4a",
+      "size": 8320
+    },
+    {
+      "path": "memory/2026-02-12.md",
+      "mtime": "2026-02-12",
+      "hash": "16039557",
+      "size": 1396
+    },
+    {
+      "path": "memory/2026-02-22-0616.md",
+      "mtime": "2026-02-22",
+      "hash": "d492ed42",
+      "size": 1368
+    },
+    {
+      "path": "memory/2026-02-12-2110.md",
+      "mtime": "2026-02-12",
+      "hash": "97a4d142",
+      "size": 688
+    },
+    {
+      "path": "memory/2026-02-11-1155.md",
+      "mtime": "2026-02-11",
+      "hash": "d7738cad",
+      "size": 3171
+    },
+    {
+      "path": "memory/OPENCLAW.md",
+      "mtime": "2026-02-09",
+      "hash": "94177f8f",
+      "size": 4804
+    },
+    {
+      "path": "memory/PARL_OPTIMIZE.md",
+      "mtime": "2026-02-09",
+      "hash": "00254eff",
+      "size": 2375
+    },
+    {
+      "path": "memory/2026-02-12-1816.md",
+      "mtime": "2026-02-12",
+      "hash": "26674eac",
+      "size": 5123
+    },
+    {
+      "path": "memory/LEARNING.md",
+      "mtime": "2026-02-09",
+      "hash": "f89baa3f",
+      "size": 5141
+    },
+    {
+      "path": "memory/OPENCLAW_MULTI_SESSION.md",
+      "mtime": "2026-02-09",
+      "hash": "4ae9f525",
+      "size": 2111
+    },
+    {
+      "path": "memory/2026-02-03.md",
+      "mtime": "2026-02-09",
+      "hash": "e936fd43",
+      "size": 7019
+    },
+    {
+      "path": "memory/scys-projects-index.md",
+      "mtime": "2026-02-10",
+      "hash": "dc3f5003",
+      "size": 7518
+    },
+    {
+      "path": "memory/2026-02-11-1808.md",
+      "mtime": "2026-02-11",
+      "hash": "2deaa67c",
+      "size": 8822
+    },
+    {
+      "path": "memory/2026-02-12-1725.md",
+      "mtime": "2026-02-12",
+      "hash": "af0b7e29",
+      "size": 772
+    },
+    {
+      "path": "memory/GATEWAY_PASSWORD_MIGRATION.md",
+      "mtime": "2026-02-11",
+      "hash": "5c9721a2",
+      "size": 3296
+    },
+    {
+      "path": "memory/2026-02-07.md",
+      "mtime": "2026-02-09",
+      "hash": "39b4a23f",
+      "size": 1837
+    },
+    {
+      "path": "memory/2026-02-11-1041.md",
+      "mtime": "2026-02-11",
+      "hash": "51bb6481",
+      "size": 4318
+    },
+    {
+      "path": "memory/AGENT_2_4_SKILLS_PLAN.md",
+      "mtime": "2026-02-11",
+      "hash": "06c7a433",
+      "size": 4449
+    },
+    {
+      "path": "memory/2026-02-21-2101.md",
+      "mtime": "2026-02-21",
+      "hash": "1529f298",
+      "size": 9948
+    },
+    {
+      "path": "memory/2026-02-21-1956.md",
+      "mtime": "2026-02-21",
+      "hash": "a203ab56",
+      "size": 5506
+    },
+    {
+      "path": "memory/SOLANA_KEY_DISCOVERIES.md",
+      "mtime": "2026-02-09",
+      "hash": "300eb14f",
+      "size": 8566
+    },
+    {
+      "path": "memory/2026-02-10.md",
+      "mtime": "2026-02-10",
+      "hash": "63a0fd96",
+      "size": 1370
+    },
+    {
+      "path": "memory/SUBAGENTS.md",
+      "mtime": "2026-02-09",
+      "hash": "7db828dc",
+      "size": 6208
+    },
+    {
+      "path": "memory/2026-02-12-1652.md",
+      "mtime": "2026-02-12",
+      "hash": "5b668cbe",
+      "size": 185
+    },
+    {
+      "path": "memory/OPENCLAW_GEN_FEEDBACK.md",
+      "mtime": "2026-02-16",
+      "hash": "0eb0c18f",
+      "size": 5494
+    },
+    {
+      "path": "memory/2026-02-04.md",
+      "mtime": "2026-02-09",
+      "hash": "8c92fa07",
+      "size": 10099
+    },
+    {
+      "path": "memory/RESEARCH.md",
+      "mtime": "2026-02-09",
+      "hash": "a4246bae",
+      "size": 2618
+    },
+    {
+      "path": "memory/2026-02-12-1454.md",
+      "mtime": "2026-02-12",
+      "hash": "a1577834",
+      "size": 11247
+    },
+    {
+      "path": "memory/INDEX.md",
+      "mtime": "2026-02-12",
+      "hash": "8041d328",
+      "size": 5335
+    },
+    {
+      "path": "memory/AI_PROMPTS_FRAMEWORK.md",
+      "mtime": "2026-02-12",
+      "hash": "d1ee3770",
+      "size": 6485
+    },
+    {
+      "path": "memory/2026-02-12-2107.md",
+      "mtime": "2026-02-12",
+      "hash": "f08dfd40",
+      "size": 4182
+    },
+    {
+      "path": "memory/2026-02-12-1657.md",
+      "mtime": "2026-02-12",
+      "hash": "924f961e",
+      "size": 794
+    },
+    {
+      "path": "memory/2026-02-01.md",
+      "mtime": "2026-02-09",
+      "hash": "d2648630",
+      "size": 6640
+    },
+    {
+      "path": "memory/2026-02-13-1048.md",
+      "mtime": "2026-02-13",
+      "hash": "f3fd6e27",
+      "size": 9464
+    },
+    {
+      "path": "memory/2026-02-11.md",
+      "mtime": "2026-02-12",
+      "hash": "ad208f60",
+      "size": 5521
+    },
+    {
+      "path": "memory/2026-02-02-1018.md",
+      "mtime": "2026-02-09",
+      "hash": "34d44735",
+      "size": 5921
+    },
+    {
+      "path": "memory/2026-02-12-1855.md",
+      "mtime": "2026-02-12",
+      "hash": "e4619d19",
+      "size": 9319
+    },
+    {
+      "path": "memory/2026-02-12-1647.md",
+      "mtime": "2026-02-12",
+      "hash": "34f78a25",
+      "size": 16016
+    },
+    {
+      "path": "memory/2026-02-11-1454.md",
+      "mtime": "2026-02-11",
+      "hash": "de9396eb",
+      "size": 5546
+    },
+    {
+      "path": "memory/2026-02-11-1545.md",
+      "mtime": "2026-02-11",
+      "hash": "1f8e8688",
+      "size": 2606
+    },
+    {
+      "path": "memory/SOLANA_EXPERIENCE.md",
+      "mtime": "2026-02-09",
+      "hash": "4d10fe43",
+      "size": 27745
+    },
+    {
+      "path": "memory/2026-02-13-1032.md",
+      "mtime": "2026-02-13",
+      "hash": "4bccaeae",
+      "size": 932
+    },
+    {
+      "path": "memory/2026-02-12-1708.md",
+      "mtime": "2026-02-12",
+      "hash": "c42fbf70",
+      "size": 2799
+    },
+    {
+      "path": "memory/2026-02-11-1108.md",
+      "mtime": "2026-02-11",
+      "hash": "480a9fcb",
+      "size": 1022
+    },
+    {
+      "path": "memory/2026-02-16-1408.md",
+      "mtime": "2026-02-16",
+      "hash": "f80ed0a1",
+      "size": 183
+    },
+    {
+      "path": "memory/SOLANA.md",
+      "mtime": "2026-02-09",
+      "hash": "f6b6d2e3",
+      "size": 21163
+    },
+    {
+      "path": "memory/2026-02-11-1451.md",
+      "mtime": "2026-02-11",
+      "hash": "25fff557",
+      "size": 7480
+    },
+    {
+      "path": "memory/2026-02-11-1109.md",
+      "mtime": "2026-02-11",
+      "hash": "b1065460",
+      "size": 2216
+    },
+    {
+      "path": "memory/SOLANA_LESSONS_LEARNED.md",
+      "mtime": "2026-02-09",
+      "hash": "ca8494fa",
+      "size": 13395
+    },
+    {
+      "path": "memory/2026-02-12-0703.md",
+      "mtime": "2026-02-12",
+      "hash": "ace4ca74",
+      "size": 2144
+    },
+    {
+      "path": "memory/2026-02-11-1455.md",
+      "mtime": "2026-02-11",
+      "hash": "a8d64fe2",
+      "size": 5620
+    },
+    {
+      "path": "memory/archives/2026-02-studies/advanced_study_B.md",
+      "mtime": "2026-02-04",
+      "hash": "f8b92713",
+      "size": 10411
+    },
+    {
+      "path": "memory/archives/2026-02-studies/automation_study_A.md",
+      "mtime": "2026-02-04",
+      "hash": "8a88f171",
+      "size": 18973
+    },
+    {
+      "path": "memory/archives/2026-02-studies/collaboration_study_B.md",
+      "mtime": "2026-02-04",
+      "hash": "6de894a7",
+      "size": 12725
+    },
+    {
+      "path": "memory/archives/2026-02-studies/automation_study_B.md",
+      "mtime": "2026-02-04",
+      "hash": "d84705e9",
+      "size": 7485
+    },
+    {
+      "path": "memory/archives/2026-02-studies/collaboration_study_A.md",
+      "mtime": "2026-02-04",
+      "hash": "d6ff0316",
+      "size": 27051
+    },
+    {
+      "path": "memory/archives/2026-02-studies/advanced_study_A.md",
+      "mtime": "2026-02-04",
+      "hash": "b28f3908",
+      "size": 22185
+    },
+    {
+      "path": "MEMORY.md",
+      "mtime": "2026-02-21",
+      "hash": "979ab263",
+      "size": 11699
+    }
+  ],
+  "by_date": {
+    "2026-02-11": [
+      "memory/2026-02-11-1452.md",
+      "memory/2026-02-11-1650.md",
+      "memory/2026-02-11-1516.md",
+      "memory/2026-02-11-1546.md",
+      "memory/2026-02-11-1011.md",
+      "memory/2026-02-11-1155.md",
+      "memory/2026-02-11-1808.md",
+      "memory/GATEWAY_PASSWORD_MIGRATION.md",
+      "memory/2026-02-11-1041.md",
+      "memory/AGENT_2_4_SKILLS_PLAN.md",
+      "memory/2026-02-11-1454.md",
+      "memory/2026-02-11-1545.md",
+      "memory/2026-02-11-1108.md",
+      "memory/2026-02-11-1451.md",
+      "memory/2026-02-11-1109.md",
+      "memory/2026-02-11-1455.md"
+    ],
+    "2026-02-21": [
+      "memory/agent-team-playbook.md",
+      "memory/2026-02-21-1334.md",
+      "memory/2026-02-21-1324.md",
+      "memory/2026-02-21-2200.md",
+      "memory/2026-02-21-2101.md",
+      "memory/2026-02-21-1956.md",
+      "MEMORY.md"
+    ],
+    "2026-02-09": [
+      "memory/2026-02-09.md",
+      "memory/BROWSER.md",
+      "memory/CLI.md",
+      "memory/ESIM.md",
+      "memory/PROFILES.md",
+      "memory/2026-02-06.md",
+      "memory/OPENCLAW.md",
+      "memory/PARL_OPTIMIZE.md",
+      "memory/LEARNING.md",
+      "memory/OPENCLAW_MULTI_SESSION.md",
+      "memory/2026-02-03.md",
+      "memory/2026-02-07.md",
+      "memory/SOLANA_KEY_DISCOVERIES.md",
+      "memory/SUBAGENTS.md",
+      "memory/2026-02-04.md",
+      "memory/RESEARCH.md",
+      "memory/2026-02-01.md",
+      "memory/2026-02-02-1018.md",
+      "memory/SOLANA_EXPERIENCE.md",
+      "memory/SOLANA.md",
+      "memory/SOLANA_LESSONS_LEARNED.md"
+    ],
+    "2026-02-10": [
+      "memory/AI_TOOLS_COVER.md",
+      "memory/scys-projects-index.md",
+      "memory/2026-02-10.md"
+    ],
+    "2026-02-12": [
+      "memory/2026-02-12-1734.md",
+      "memory/2026-02-12-1957.md",
+      "memory/2026-02-12.md",
+      "memory/2026-02-12-2110.md",
+      "memory/2026-02-12-1816.md",
+      "memory/2026-02-12-1725.md",
+      "memory/2026-02-12-1652.md",
+      "memory/2026-02-12-1454.md",
+      "memory/INDEX.md",
+      "memory/AI_PROMPTS_FRAMEWORK.md",
+      "memory/2026-02-12-2107.md",
+      "memory/2026-02-12-1657.md",
+      "memory/2026-02-11.md",
+      "memory/2026-02-12-1855.md",
+      "memory/2026-02-12-1647.md",
+      "memory/2026-02-12-1708.md",
+      "memory/2026-02-12-0703.md"
+    ],
+    "2026-02-22": [
+      "memory/2026-02-22-0616.md"
+    ],
+    "2026-02-16": [
+      "memory/OPENCLAW_GEN_FEEDBACK.md",
+      "memory/2026-02-16-1408.md"
+    ],
+    "2026-02-13": [
+      "memory/2026-02-13-1048.md",
+      "memory/2026-02-13-1032.md"
+    ],
+    "2026-02-04": [
+      "memory/archives/2026-02-studies/advanced_study_B.md",
+      "memory/archives/2026-02-studies/automation_study_A.md",
+      "memory/archives/2026-02-studies/collaboration_study_B.md",
+      "memory/archives/2026-02-studies/automation_study_B.md",
+      "memory/archives/2026-02-studies/collaboration_study_A.md",
+      "memory/archives/2026-02-studies/advanced_study_A.md"
+    ]
+  },
+  "by_directory": {
+    "memory": [
+      "memory/2026-02-11-1452.md",
+      "memory/2026-02-11-1650.md",
+      "memory/2026-02-11-1516.md",
+      "memory/agent-team-playbook.md",
+      "memory/2026-02-09.md",
+      "memory/BROWSER.md",
+      "memory/2026-02-11-1546.md",
+      "memory/AI_TOOLS_COVER.md",
+      "memory/2026-02-21-1334.md",
+      "memory/CLI.md",
+      "memory/2026-02-21-1324.md",
+      "memory/ESIM.md",
+      "memory/2026-02-21-2200.md",
+      "memory/PROFILES.md",
+      "memory/2026-02-06.md",
+      "memory/2026-02-11-1011.md",
+      "memory/2026-02-12-1734.md",
+      "memory/2026-02-12-1957.md",
+      "memory/2026-02-12.md",
+      "memory/2026-02-22-0616.md",
+      "memory/2026-02-12-2110.md",
+      "memory/2026-02-11-1155.md",
+      "memory/OPENCLAW.md",
+      "memory/PARL_OPTIMIZE.md",
+      "memory/2026-02-12-1816.md",
+      "memory/LEARNING.md",
+      "memory/OPENCLAW_MULTI_SESSION.md",
+      "memory/2026-02-03.md",
+      "memory/scys-projects-index.md",
+      "memory/2026-02-11-1808.md",
+      "memory/2026-02-12-1725.md",
+      "memory/GATEWAY_PASSWORD_MIGRATION.md",
+      "memory/2026-02-07.md",
+      "memory/2026-02-11-1041.md",
+      "memory/AGENT_2_4_SKILLS_PLAN.md",
+      "memory/2026-02-21-2101.md",
+      "memory/2026-02-21-1956.md",
+      "memory/SOLANA_KEY_DISCOVERIES.md",
+      "memory/2026-02-10.md",
+      "memory/SUBAGENTS.md",
+      "memory/2026-02-12-1652.md",
+      "memory/OPENCLAW_GEN_FEEDBACK.md",
+      "memory/2026-02-04.md",
+      "memory/RESEARCH.md",
+      "memory/2026-02-12-1454.md",
+      "memory/INDEX.md",
+      "memory/AI_PROMPTS_FRAMEWORK.md",
+      "memory/2026-02-12-2107.md",
+      "memory/2026-02-12-1657.md",
+      "memory/2026-02-01.md",
+      "memory/2026-02-13-1048.md",
+      "memory/2026-02-11.md",
+      "memory/2026-02-02-1018.md",
+      "memory/2026-02-12-1855.md",
+      "memory/2026-02-12-1647.md",
+      "memory/2026-02-11-1454.md",
+      "memory/2026-02-11-1545.md",
+      "memory/SOLANA_EXPERIENCE.md",
+      "memory/2026-02-13-1032.md",
+      "memory/2026-02-12-1708.md",
+      "memory/2026-02-11-1108.md",
+      "memory/2026-02-16-1408.md",
+      "memory/SOLANA.md",
+      "memory/2026-02-11-1451.md",
+      "memory/2026-02-11-1109.md",
+      "memory/SOLANA_LESSONS_LEARNED.md",
+      "memory/2026-02-12-0703.md",
+      "memory/2026-02-11-1455.md",
+      "memory/archives/2026-02-studies/advanced_study_B.md",
+      "memory/archives/2026-02-studies/automation_study_A.md",
+      "memory/archives/2026-02-studies/collaboration_study_B.md",
+      "memory/archives/2026-02-studies/automation_study_B.md",
+      "memory/archives/2026-02-studies/collaboration_study_A.md",
+      "memory/archives/2026-02-studies/advanced_study_A.md"
+    ],
+    "root": [
+      "MEMORY.md"
+    ]
+  }
+}
