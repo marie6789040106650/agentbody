@@ -266,3 +266,29 @@
 ### 2026-03-01 新增
 - OpenClaw 能力增强与安全规范 (memory/OpenClaw_Enhancement_Security.md)
 
+
+
+---
+
+## 参考链接
+
+### OpenClaw 官方教程
+- [OpenClaw Setup Guide: 25 Tools + 53 Skills Explained](https://yu-wenhao.com/en/blog/openclaw-tools-skills-tutorial/) - 非常详细的工具和技能配置指南
+- [X.com 讨论](https://x.com/GoSailGlobal/status/2027226255561744793) - (无法直接访问)
+
+### 核心要点 (来自教程)
+
+**Tools vs Skills 区别:**
+- Tools = 器官 (决定能否做某事)
+- Skills = 教科书 (教如何完成任务)
+
+**三层架构:**
+1. 核心层 (8 Tools): 文件、命令执行、Web访问
+2. 高级层 (17 Tools): 浏览器、内存、多会话、自动化
+3. 知识层 (53 Skills): 各种服务集成
+
+**安全建议:**
+- exec 工具建议启用审批机制
+- message 工具只用于给自己发消息
+- 付款相关绝不让 AI 经手
+
