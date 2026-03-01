@@ -431,3 +431,9 @@
 - [ ] 安全第一，能力第二
 
 **安全原则**: exec 审批、message 限制、密码谨慎
+
+
+### 2026-03-01 15:57 探索记录
+- ✅ API 工具正常 (Tavily/Apify/Replicate)
+- ✅ 发现新自动化工具 (n8n workflow, Telegram, Facebook)
+
