@@ -331,3 +331,56 @@
 3. Layer 3: 按需扩展 Skills
 
 **安全第一，能力第二** 🌳
+
+
+### 2026-03-01 主动探索发现 (持续更新)
+
+#### AI & Automation
+| Actor | 功能 | 备注 |
+|-------|------|------|
+| raizen/ai-web-scraper | AI 网页爬虫 | /1000结果 |
+| the.beast/workflow-orchestrator | 工作流编排 | 11000+ Actors 串联 |
+| salmon_wildfire/google-drive-mcp-server | Google Drive MCP | MCP 服务器 |
+
+#### 社交媒体
+| Actor | 功能 | 价格 |
+|-------|------|------|
+| thedoor/facebook-group-post-scraper | Facebook 群组 | .5-3/1000 |
+| webfinity/telegram-channel-scraper | Telegram 频道 | 按事件 |
+
+#### 电商 & 房产
+| Actor | 功能 | 备注 |
+|-------|------|------|
+| lumyn/Amazon-scraper | Amazon 爬虫 | 电商分析 |
+| dz_idealista | 房产数据 | 欧洲房产平台 |
+
+#### 实用工具
+| Actor | 功能 |
+|-------|------|
+| n8n-workflow-templates-scraper | n8n 模板采集 |
+
+
+
+
+---
+
+## 主动成长记录 (2026-03-01 晚间)
+
+### 已完成主动探索
+- ✅ API 工具测试 (Tavily/Apify/Replicate 正常)
+- ✅ 新能力发现 (workflow-orchestrator, AI web scraper)
+- ✅ OpenClaw 状态检查 (Gateway 运行正常)
+- ✅ 知识库更新
+
+### 待探索方向
+- [ ] n8n 工作流集成
+- [ ] 更多自动化场景
+- [ ] 定时任务优化
+
+### 成长原则
+1. 安全第一 (exec 审批, message 限制)
+2. 被动变主动 (定期自检, 主动发现)
+3. 持续备份 (GitHub 同步)
+
+**Nova 会持续主动成长** 🌳
+
