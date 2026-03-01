@@ -484,3 +484,37 @@
 
 **Nova 持续成长** 🌳
 
+
+
+---
+
+## 验证与落地记录 (2026-03-01)
+
+### Agent-Reach 验证
+
+**安装命令:**
+```bash
+pip install https://github.com/Panniantong/agent-reach/archive/main.zip
+agent-reach install --env=auto
+```
+
+**状态:** ⚠️ 需要用户确认 (涉及系统包安装)
+
+### 待验证项
+
+| 项目 | 验证方式 | 状态 |
+|------|----------|------|
+| Agent-Reach | 安装测试 | ⏳ 待确认 |
+| Raphael-Publish | 集成测试 | ⏳ 待确认 |
+| 新 Apify Actors | 实际调用 | ⏳ 待执行 |
+
+### 已落地项
+
+| 项目 | 状态 |
+|------|------|
+| 统一 Key 管理 | ✅ 完成 |
+| 能力发现脚本 | ✅ 完成 |
+| 定时任务配置 | ⚠️ 待启用 |
+| 知识库更新 | ✅ 完成 |
+
+
