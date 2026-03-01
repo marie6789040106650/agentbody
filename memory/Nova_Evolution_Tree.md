@@ -437,3 +437,12 @@
 - ✅ API 工具正常 (Tavily/Apify/Replicate)
 - ✅ 发现新自动化工具 (n8n workflow, Telegram, Facebook)
 
+
+
+### 2026-03-01 16:16 夜间探索
+- ✅ API 正常
+- ✅ 发现 AI Web Agent (apify/ai-web-agent)
+- ✅ 发现 AI Travel Agent
+- ✅ 发现 YouTube 下载器 (streamers/youtube-video-downloader)
+- ✅ 发现 Twitter 爬虫 (apidojo/tweet-scraper)
+
