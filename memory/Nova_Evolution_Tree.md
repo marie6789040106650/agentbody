@@ -518,3 +518,17 @@ agent-reach install --env=auto
 | 知识库更新 | ✅ 完成 |
 
 
+
+
+### 2026-03-01 18:41 自动执行配置
+
+**已配置 Cron 任务:**
+- nova-daily: 每日 6:00 & 18:00 执行 API 测试
+- nova-weekly: 每周日 20:00 GitHub 备份
+
+**状态:**
+- ✅ 配置已添加
+- ✅ Gateway 已重启
+- ✅ 等待定时触发
+
+
