@@ -36,7 +36,7 @@ status:
 
 available_channels:
   - GitHub (完整)
-  - YouTube (字幕)
+  - YouTube (字幕 - 暂不可用: Python 3.13 SSL问题)
   - RSS (订阅)
   - Web (任意网页)
   - B站 (本地)
@@ -51,3 +51,7 @@ unavailable_channels:
 notes: |
   安装: python3 -m pip install agent-reach --user --break-system-packages
   状态: ~/Library/Python/3.13/bin/agent-reach doctor
+
+### 已知问题
+- YouTube: Python 3.13 SSL 兼容性问题，暂时不可用
+
