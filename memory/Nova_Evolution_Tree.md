@@ -598,3 +598,36 @@ agent-reach install --env=auto
 | 当前任务 | ⭐⭐⭐⭐⭐ | 保持 API 测试和备份 |
 
 
+
+
+---
+
+## MemOS 借鉴 - 立即执行 (2026-03-01)
+
+### 已完成
+
+✅ 1. 创建技能卡片系统 (基于 MemCube 概念)
+   - 结构化记忆: 内容 + 元数据
+   - 分类: data-collection, content-creation, automation, knowledge, communication
+   
+✅ 2. 创建 3 个技能卡片
+   - apify.md (数据采集)
+   - tavily.md (搜索)
+   - replicate.md (图片生成)
+
+✅ 3. 技能管理脚本
+   - skill-cards.sh (list/info/stats)
+
+### 进行中
+
+⏳ 4. 技能使用记录追踪
+⏳ 5. 记忆可靠性评估
+
+### 计划
+
+- [ ] 扩展更多技能卡片
+- [ ] 添加记忆演化机制
+- [ ] 研究向量检索集成
+
+**MemOS 借鉴进度: 20%** 🌳
+
