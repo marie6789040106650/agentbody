@@ -668,3 +668,16 @@ agent-reach install --env=auto
 
 **进度: 60%** 🌳
 
+
+
+### 2026-03-01 19:09 MemOS 借鉴 - 可靠性评估
+
+**评估结果:**
+- high: 9 个技能
+- medium: 1 个技能 (xiaohongshu)
+
+**新增:**
+- embedding 技能卡片
+
+**进度: 80%** 🌳
+
